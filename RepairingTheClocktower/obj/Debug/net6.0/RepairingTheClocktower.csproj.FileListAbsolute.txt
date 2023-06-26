@@ -1,0 +1,15 @@
+D:\Projects\Csharp\RepairingTheClocktower\bin\Debug\net6.0\RepairingTheClocktower.exe
+D:\Projects\Csharp\RepairingTheClocktower\bin\Debug\net6.0\RepairingTheClocktower.deps.json
+D:\Projects\Csharp\RepairingTheClocktower\bin\Debug\net6.0\RepairingTheClocktower.runtimeconfig.json
+D:\Projects\Csharp\RepairingTheClocktower\bin\Debug\net6.0\RepairingTheClocktower.dll
+D:\Projects\Csharp\RepairingTheClocktower\bin\Debug\net6.0\RepairingTheClocktower.pdb
+D:\Projects\Csharp\RepairingTheClocktower\obj\Debug\net6.0\RepairingTheClocktower.csproj.AssemblyReference.cache
+D:\Projects\Csharp\RepairingTheClocktower\obj\Debug\net6.0\RepairingTheClocktower.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Csharp\RepairingTheClocktower\obj\Debug\net6.0\RepairingTheClocktower.AssemblyInfoInputs.cache
+D:\Projects\Csharp\RepairingTheClocktower\obj\Debug\net6.0\RepairingTheClocktower.AssemblyInfo.cs
+D:\Projects\Csharp\RepairingTheClocktower\obj\Debug\net6.0\RepairingTheClocktower.csproj.CoreCompileInputs.cache
+D:\Projects\Csharp\RepairingTheClocktower\obj\Debug\net6.0\RepairingTheClocktower.dll
+D:\Projects\Csharp\RepairingTheClocktower\obj\Debug\net6.0\refint\RepairingTheClocktower.dll
+D:\Projects\Csharp\RepairingTheClocktower\obj\Debug\net6.0\RepairingTheClocktower.pdb
+D:\Projects\Csharp\RepairingTheClocktower\obj\Debug\net6.0\RepairingTheClocktower.genruntimeconfig.cache
+D:\Projects\Csharp\RepairingTheClocktower\obj\Debug\net6.0\ref\RepairingTheClocktower.dll

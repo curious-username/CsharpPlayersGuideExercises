@@ -1,0 +1,15 @@
+D:\Projects\Csharp\DefenseofConsolas\obj\Debug\net6.0\DefenseofConsolas.csproj.AssemblyReference.cache
+D:\Projects\Csharp\DefenseofConsolas\obj\Debug\net6.0\DefenseofConsolas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Csharp\DefenseofConsolas\obj\Debug\net6.0\DefenseofConsolas.AssemblyInfoInputs.cache
+D:\Projects\Csharp\DefenseofConsolas\obj\Debug\net6.0\DefenseofConsolas.AssemblyInfo.cs
+D:\Projects\Csharp\DefenseofConsolas\obj\Debug\net6.0\DefenseofConsolas.csproj.CoreCompileInputs.cache
+D:\Projects\Csharp\DefenseofConsolas\bin\Debug\net6.0\DefenseofConsolas.exe
+D:\Projects\Csharp\DefenseofConsolas\bin\Debug\net6.0\DefenseofConsolas.deps.json
+D:\Projects\Csharp\DefenseofConsolas\bin\Debug\net6.0\DefenseofConsolas.runtimeconfig.json
+D:\Projects\Csharp\DefenseofConsolas\bin\Debug\net6.0\DefenseofConsolas.dll
+D:\Projects\Csharp\DefenseofConsolas\bin\Debug\net6.0\DefenseofConsolas.pdb
+D:\Projects\Csharp\DefenseofConsolas\obj\Debug\net6.0\DefenseofConsolas.dll
+D:\Projects\Csharp\DefenseofConsolas\obj\Debug\net6.0\refint\DefenseofConsolas.dll
+D:\Projects\Csharp\DefenseofConsolas\obj\Debug\net6.0\DefenseofConsolas.pdb
+D:\Projects\Csharp\DefenseofConsolas\obj\Debug\net6.0\DefenseofConsolas.genruntimeconfig.cache
+D:\Projects\Csharp\DefenseofConsolas\obj\Debug\net6.0\ref\DefenseofConsolas.dll

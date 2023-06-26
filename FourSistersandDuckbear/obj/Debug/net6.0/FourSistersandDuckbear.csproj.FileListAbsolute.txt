@@ -1,0 +1,15 @@
+D:\Projects\Csharp\FourSistersandDuckbear\bin\Debug\net6.0\FourSistersandDuckbear.exe
+D:\Projects\Csharp\FourSistersandDuckbear\bin\Debug\net6.0\FourSistersandDuckbear.deps.json
+D:\Projects\Csharp\FourSistersandDuckbear\bin\Debug\net6.0\FourSistersandDuckbear.runtimeconfig.json
+D:\Projects\Csharp\FourSistersandDuckbear\bin\Debug\net6.0\FourSistersandDuckbear.dll
+D:\Projects\Csharp\FourSistersandDuckbear\bin\Debug\net6.0\FourSistersandDuckbear.pdb
+D:\Projects\Csharp\FourSistersandDuckbear\obj\Debug\net6.0\FourSistersandDuckbear.csproj.AssemblyReference.cache
+D:\Projects\Csharp\FourSistersandDuckbear\obj\Debug\net6.0\FourSistersandDuckbear.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Csharp\FourSistersandDuckbear\obj\Debug\net6.0\FourSistersandDuckbear.AssemblyInfoInputs.cache
+D:\Projects\Csharp\FourSistersandDuckbear\obj\Debug\net6.0\FourSistersandDuckbear.AssemblyInfo.cs
+D:\Projects\Csharp\FourSistersandDuckbear\obj\Debug\net6.0\FourSistersandDuckbear.csproj.CoreCompileInputs.cache
+D:\Projects\Csharp\FourSistersandDuckbear\obj\Debug\net6.0\FourSistersandDuckbear.dll
+D:\Projects\Csharp\FourSistersandDuckbear\obj\Debug\net6.0\refint\FourSistersandDuckbear.dll
+D:\Projects\Csharp\FourSistersandDuckbear\obj\Debug\net6.0\FourSistersandDuckbear.pdb
+D:\Projects\Csharp\FourSistersandDuckbear\obj\Debug\net6.0\FourSistersandDuckbear.genruntimeconfig.cache
+D:\Projects\Csharp\FourSistersandDuckbear\obj\Debug\net6.0\ref\FourSistersandDuckbear.dll
