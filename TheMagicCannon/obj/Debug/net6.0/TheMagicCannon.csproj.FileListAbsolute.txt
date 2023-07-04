@@ -1,0 +1,15 @@
+C:\TheMagicCannon\bin\Debug\net6.0\TheMagicCannon.exe
+C:\TheMagicCannon\bin\Debug\net6.0\TheMagicCannon.deps.json
+C:\TheMagicCannon\bin\Debug\net6.0\TheMagicCannon.runtimeconfig.json
+C:\TheMagicCannon\bin\Debug\net6.0\TheMagicCannon.dll
+C:\TheMagicCannon\bin\Debug\net6.0\TheMagicCannon.pdb
+C:\TheMagicCannon\obj\Debug\net6.0\TheMagicCannon.csproj.AssemblyReference.cache
+C:\TheMagicCannon\obj\Debug\net6.0\TheMagicCannon.GeneratedMSBuildEditorConfig.editorconfig
+C:\TheMagicCannon\obj\Debug\net6.0\TheMagicCannon.AssemblyInfoInputs.cache
+C:\TheMagicCannon\obj\Debug\net6.0\TheMagicCannon.AssemblyInfo.cs
+C:\TheMagicCannon\obj\Debug\net6.0\TheMagicCannon.csproj.CoreCompileInputs.cache
+C:\TheMagicCannon\obj\Debug\net6.0\TheMagicCannon.dll
+C:\TheMagicCannon\obj\Debug\net6.0\refint\TheMagicCannon.dll
+C:\TheMagicCannon\obj\Debug\net6.0\TheMagicCannon.pdb
+C:\TheMagicCannon\obj\Debug\net6.0\TheMagicCannon.genruntimeconfig.cache
+C:\TheMagicCannon\obj\Debug\net6.0\ref\TheMagicCannon.dll

@@ -1,0 +1,15 @@
+C:\TheReplicatorofDTo\bin\Debug\net6.0\TheReplicatorofDTo.exe
+C:\TheReplicatorofDTo\bin\Debug\net6.0\TheReplicatorofDTo.deps.json
+C:\TheReplicatorofDTo\bin\Debug\net6.0\TheReplicatorofDTo.runtimeconfig.json
+C:\TheReplicatorofDTo\bin\Debug\net6.0\TheReplicatorofDTo.dll
+C:\TheReplicatorofDTo\bin\Debug\net6.0\TheReplicatorofDTo.pdb
+C:\TheReplicatorofDTo\obj\Debug\net6.0\TheReplicatorofDTo.csproj.AssemblyReference.cache
+C:\TheReplicatorofDTo\obj\Debug\net6.0\TheReplicatorofDTo.GeneratedMSBuildEditorConfig.editorconfig
+C:\TheReplicatorofDTo\obj\Debug\net6.0\TheReplicatorofDTo.AssemblyInfoInputs.cache
+C:\TheReplicatorofDTo\obj\Debug\net6.0\TheReplicatorofDTo.AssemblyInfo.cs
+C:\TheReplicatorofDTo\obj\Debug\net6.0\TheReplicatorofDTo.csproj.CoreCompileInputs.cache
+C:\TheReplicatorofDTo\obj\Debug\net6.0\TheReplicatorofDTo.dll
+C:\TheReplicatorofDTo\obj\Debug\net6.0\refint\TheReplicatorofDTo.dll
+C:\TheReplicatorofDTo\obj\Debug\net6.0\TheReplicatorofDTo.pdb
+C:\TheReplicatorofDTo\obj\Debug\net6.0\TheReplicatorofDTo.genruntimeconfig.cache
+C:\TheReplicatorofDTo\obj\Debug\net6.0\ref\TheReplicatorofDTo.dll

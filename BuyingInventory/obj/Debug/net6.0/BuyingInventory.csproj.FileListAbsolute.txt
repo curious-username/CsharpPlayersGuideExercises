@@ -1,0 +1,15 @@
+C:\BuyingInventory\bin\Debug\net6.0\BuyingInventory.exe
+C:\BuyingInventory\bin\Debug\net6.0\BuyingInventory.deps.json
+C:\BuyingInventory\bin\Debug\net6.0\BuyingInventory.runtimeconfig.json
+C:\BuyingInventory\bin\Debug\net6.0\BuyingInventory.dll
+C:\BuyingInventory\bin\Debug\net6.0\BuyingInventory.pdb
+C:\BuyingInventory\obj\Debug\net6.0\BuyingInventory.csproj.AssemblyReference.cache
+C:\BuyingInventory\obj\Debug\net6.0\BuyingInventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\BuyingInventory\obj\Debug\net6.0\BuyingInventory.AssemblyInfoInputs.cache
+C:\BuyingInventory\obj\Debug\net6.0\BuyingInventory.AssemblyInfo.cs
+C:\BuyingInventory\obj\Debug\net6.0\BuyingInventory.csproj.CoreCompileInputs.cache
+C:\BuyingInventory\obj\Debug\net6.0\BuyingInventory.dll
+C:\BuyingInventory\obj\Debug\net6.0\refint\BuyingInventory.dll
+C:\BuyingInventory\obj\Debug\net6.0\BuyingInventory.pdb
+C:\BuyingInventory\obj\Debug\net6.0\BuyingInventory.genruntimeconfig.cache
+C:\BuyingInventory\obj\Debug\net6.0\ref\BuyingInventory.dll
