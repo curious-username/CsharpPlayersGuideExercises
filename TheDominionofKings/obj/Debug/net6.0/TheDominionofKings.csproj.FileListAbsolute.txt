@@ -1,0 +1,15 @@
+C:\TheDominionofKings\bin\Debug\net6.0\TheDominionofKings.exe
+C:\TheDominionofKings\bin\Debug\net6.0\TheDominionofKings.deps.json
+C:\TheDominionofKings\bin\Debug\net6.0\TheDominionofKings.runtimeconfig.json
+C:\TheDominionofKings\bin\Debug\net6.0\TheDominionofKings.dll
+C:\TheDominionofKings\bin\Debug\net6.0\TheDominionofKings.pdb
+C:\TheDominionofKings\obj\Debug\net6.0\TheDominionofKings.csproj.AssemblyReference.cache
+C:\TheDominionofKings\obj\Debug\net6.0\TheDominionofKings.GeneratedMSBuildEditorConfig.editorconfig
+C:\TheDominionofKings\obj\Debug\net6.0\TheDominionofKings.AssemblyInfoInputs.cache
+C:\TheDominionofKings\obj\Debug\net6.0\TheDominionofKings.AssemblyInfo.cs
+C:\TheDominionofKings\obj\Debug\net6.0\TheDominionofKings.csproj.CoreCompileInputs.cache
+C:\TheDominionofKings\obj\Debug\net6.0\TheDominionofKings.dll
+C:\TheDominionofKings\obj\Debug\net6.0\refint\TheDominionofKings.dll
+C:\TheDominionofKings\obj\Debug\net6.0\TheDominionofKings.pdb
+C:\TheDominionofKings\obj\Debug\net6.0\TheDominionofKings.genruntimeconfig.cache
+C:\TheDominionofKings\obj\Debug\net6.0\ref\TheDominionofKings.dll

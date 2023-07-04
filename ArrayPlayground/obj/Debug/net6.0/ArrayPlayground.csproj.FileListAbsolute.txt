@@ -1,0 +1,15 @@
+C:\ArrayPlayground\bin\Debug\net6.0\ArrayPlayground.exe
+C:\ArrayPlayground\bin\Debug\net6.0\ArrayPlayground.deps.json
+C:\ArrayPlayground\bin\Debug\net6.0\ArrayPlayground.runtimeconfig.json
+C:\ArrayPlayground\bin\Debug\net6.0\ArrayPlayground.dll
+C:\ArrayPlayground\bin\Debug\net6.0\ArrayPlayground.pdb
+C:\ArrayPlayground\obj\Debug\net6.0\ArrayPlayground.csproj.AssemblyReference.cache
+C:\ArrayPlayground\obj\Debug\net6.0\ArrayPlayground.GeneratedMSBuildEditorConfig.editorconfig
+C:\ArrayPlayground\obj\Debug\net6.0\ArrayPlayground.AssemblyInfoInputs.cache
+C:\ArrayPlayground\obj\Debug\net6.0\ArrayPlayground.AssemblyInfo.cs
+C:\ArrayPlayground\obj\Debug\net6.0\ArrayPlayground.csproj.CoreCompileInputs.cache
+C:\ArrayPlayground\obj\Debug\net6.0\ArrayPlayground.dll
+C:\ArrayPlayground\obj\Debug\net6.0\refint\ArrayPlayground.dll
+C:\ArrayPlayground\obj\Debug\net6.0\ArrayPlayground.pdb
+C:\ArrayPlayground\obj\Debug\net6.0\ArrayPlayground.genruntimeconfig.cache
+C:\ArrayPlayground\obj\Debug\net6.0\ref\ArrayPlayground.dll
