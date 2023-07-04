@@ -1,0 +1,15 @@
+D:\Projects\Csharp\PlayersGuide\New folder\TheLawsofFreach\bin\Debug\net6.0\TheLawsofFreach.exe
+D:\Projects\Csharp\PlayersGuide\New folder\TheLawsofFreach\bin\Debug\net6.0\TheLawsofFreach.deps.json
+D:\Projects\Csharp\PlayersGuide\New folder\TheLawsofFreach\bin\Debug\net6.0\TheLawsofFreach.runtimeconfig.json
+D:\Projects\Csharp\PlayersGuide\New folder\TheLawsofFreach\bin\Debug\net6.0\TheLawsofFreach.dll
+D:\Projects\Csharp\PlayersGuide\New folder\TheLawsofFreach\bin\Debug\net6.0\TheLawsofFreach.pdb
+D:\Projects\Csharp\PlayersGuide\New folder\TheLawsofFreach\obj\Debug\net6.0\TheLawsofFreach.csproj.AssemblyReference.cache
+D:\Projects\Csharp\PlayersGuide\New folder\TheLawsofFreach\obj\Debug\net6.0\TheLawsofFreach.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Csharp\PlayersGuide\New folder\TheLawsofFreach\obj\Debug\net6.0\TheLawsofFreach.AssemblyInfoInputs.cache
+D:\Projects\Csharp\PlayersGuide\New folder\TheLawsofFreach\obj\Debug\net6.0\TheLawsofFreach.AssemblyInfo.cs
+D:\Projects\Csharp\PlayersGuide\New folder\TheLawsofFreach\obj\Debug\net6.0\TheLawsofFreach.csproj.CoreCompileInputs.cache
+D:\Projects\Csharp\PlayersGuide\New folder\TheLawsofFreach\obj\Debug\net6.0\TheLawsofFreach.dll
+D:\Projects\Csharp\PlayersGuide\New folder\TheLawsofFreach\obj\Debug\net6.0\refint\TheLawsofFreach.dll
+D:\Projects\Csharp\PlayersGuide\New folder\TheLawsofFreach\obj\Debug\net6.0\TheLawsofFreach.pdb
+D:\Projects\Csharp\PlayersGuide\New folder\TheLawsofFreach\obj\Debug\net6.0\TheLawsofFreach.genruntimeconfig.cache
+D:\Projects\Csharp\PlayersGuide\New folder\TheLawsofFreach\obj\Debug\net6.0\ref\TheLawsofFreach.dll
