@@ -1,0 +1,15 @@
+D:\Projects\Csharp\PlayersGuide\Countdown\bin\Debug\net6.0\Countdown.exe
+D:\Projects\Csharp\PlayersGuide\Countdown\bin\Debug\net6.0\Countdown.deps.json
+D:\Projects\Csharp\PlayersGuide\Countdown\bin\Debug\net6.0\Countdown.runtimeconfig.json
+D:\Projects\Csharp\PlayersGuide\Countdown\bin\Debug\net6.0\Countdown.dll
+D:\Projects\Csharp\PlayersGuide\Countdown\bin\Debug\net6.0\Countdown.pdb
+D:\Projects\Csharp\PlayersGuide\Countdown\obj\Debug\net6.0\Countdown.csproj.AssemblyReference.cache
+D:\Projects\Csharp\PlayersGuide\Countdown\obj\Debug\net6.0\Countdown.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Csharp\PlayersGuide\Countdown\obj\Debug\net6.0\Countdown.AssemblyInfoInputs.cache
+D:\Projects\Csharp\PlayersGuide\Countdown\obj\Debug\net6.0\Countdown.AssemblyInfo.cs
+D:\Projects\Csharp\PlayersGuide\Countdown\obj\Debug\net6.0\Countdown.csproj.CoreCompileInputs.cache
+D:\Projects\Csharp\PlayersGuide\Countdown\obj\Debug\net6.0\Countdown.dll
+D:\Projects\Csharp\PlayersGuide\Countdown\obj\Debug\net6.0\refint\Countdown.dll
+D:\Projects\Csharp\PlayersGuide\Countdown\obj\Debug\net6.0\Countdown.pdb
+D:\Projects\Csharp\PlayersGuide\Countdown\obj\Debug\net6.0\Countdown.genruntimeconfig.cache
+D:\Projects\Csharp\PlayersGuide\Countdown\obj\Debug\net6.0\ref\Countdown.dll
