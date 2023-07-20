@@ -1,0 +1,15 @@
+D:\Projects\Csharp\PlayersGuide\TakingANumber\bin\Debug\net6.0\TakingANumber.exe
+D:\Projects\Csharp\PlayersGuide\TakingANumber\bin\Debug\net6.0\TakingANumber.deps.json
+D:\Projects\Csharp\PlayersGuide\TakingANumber\bin\Debug\net6.0\TakingANumber.runtimeconfig.json
+D:\Projects\Csharp\PlayersGuide\TakingANumber\bin\Debug\net6.0\TakingANumber.dll
+D:\Projects\Csharp\PlayersGuide\TakingANumber\bin\Debug\net6.0\TakingANumber.pdb
+D:\Projects\Csharp\PlayersGuide\TakingANumber\obj\Debug\net6.0\TakingANumber.csproj.AssemblyReference.cache
+D:\Projects\Csharp\PlayersGuide\TakingANumber\obj\Debug\net6.0\TakingANumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Csharp\PlayersGuide\TakingANumber\obj\Debug\net6.0\TakingANumber.AssemblyInfoInputs.cache
+D:\Projects\Csharp\PlayersGuide\TakingANumber\obj\Debug\net6.0\TakingANumber.AssemblyInfo.cs
+D:\Projects\Csharp\PlayersGuide\TakingANumber\obj\Debug\net6.0\TakingANumber.csproj.CoreCompileInputs.cache
+D:\Projects\Csharp\PlayersGuide\TakingANumber\obj\Debug\net6.0\TakingANumber.dll
+D:\Projects\Csharp\PlayersGuide\TakingANumber\obj\Debug\net6.0\refint\TakingANumber.dll
+D:\Projects\Csharp\PlayersGuide\TakingANumber\obj\Debug\net6.0\TakingANumber.pdb
+D:\Projects\Csharp\PlayersGuide\TakingANumber\obj\Debug\net6.0\TakingANumber.genruntimeconfig.cache
+D:\Projects\Csharp\PlayersGuide\TakingANumber\obj\Debug\net6.0\ref\TakingANumber.dll

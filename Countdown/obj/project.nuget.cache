@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "wC0u32e3TPB26mkKfW/gZGbIZdQVk3lcJf4rhB+uExdjwHcCGBODnF4ve90IZVXiiXDfJ9lNozVH30KwMNi/CA==",
   "success": true,
   "projectFilePath": "C:\\Projects\\Countdown\\Countdown.csproj",
+=======
+  "dgSpecHash": "RETTCfBvlx9sxdbp3QM4tzWcHWQcmjtCAoAf31uadSzLyqPFGKiTrxrxToxufNf7zkOwGDcuh4a6lYlzdijxMQ==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\Csharp\\PlayersGuide\\Countdown\\Countdown.csproj",
+>>>>>>> 75107c2c13817242f0df4b5d4e742049e606ddd2
   "expectedPackageFiles": [],
   "logs": []
 }

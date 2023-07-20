@@ -1,9 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
+<<<<<<< HEAD
 VisualStudioVersion = 17.6.33723.286
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Countdown", "Countdown.csproj", "{E9CBC728-6A57-49C5-8B2D-9B4E95673844}"
+=======
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Countdown", "Countdown.csproj", "{D5164ACA-B337-4FFA-AF8B-83B7CE6AA6AA}"
+>>>>>>> 75107c2c13817242f0df4b5d4e742049e606ddd2
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +17,26 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+<<<<<<< HEAD
 		{E9CBC728-6A57-49C5-8B2D-9B4E95673844}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{E9CBC728-6A57-49C5-8B2D-9B4E95673844}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E9CBC728-6A57-49C5-8B2D-9B4E95673844}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E9CBC728-6A57-49C5-8B2D-9B4E95673844}.Release|Any CPU.Build.0 = Release|Any CPU
+=======
+		{D5164ACA-B337-4FFA-AF8B-83B7CE6AA6AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5164ACA-B337-4FFA-AF8B-83B7CE6AA6AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5164ACA-B337-4FFA-AF8B-83B7CE6AA6AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5164ACA-B337-4FFA-AF8B-83B7CE6AA6AA}.Release|Any CPU.Build.0 = Release|Any CPU
+>>>>>>> 75107c2c13817242f0df4b5d4e742049e606ddd2
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
+<<<<<<< HEAD
 		SolutionGuid = {88CFDA1E-19F7-42F3-B805-8EA83B6F376E}
+=======
+		SolutionGuid = {20D34B7C-D193-49EF-93EF-50601AE27874}
+>>>>>>> 75107c2c13817242f0df4b5d4e742049e606ddd2
 	EndGlobalSection
 EndGlobal
