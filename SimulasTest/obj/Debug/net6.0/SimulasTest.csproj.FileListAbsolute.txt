@@ -1,0 +1,15 @@
+C:\Projects\SimulasTest\bin\Debug\net6.0\SimulasTest.exe
+C:\Projects\SimulasTest\bin\Debug\net6.0\SimulasTest.deps.json
+C:\Projects\SimulasTest\bin\Debug\net6.0\SimulasTest.runtimeconfig.json
+C:\Projects\SimulasTest\bin\Debug\net6.0\SimulasTest.dll
+C:\Projects\SimulasTest\bin\Debug\net6.0\SimulasTest.pdb
+C:\Projects\SimulasTest\obj\Debug\net6.0\SimulasTest.csproj.AssemblyReference.cache
+C:\Projects\SimulasTest\obj\Debug\net6.0\SimulasTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\SimulasTest\obj\Debug\net6.0\SimulasTest.AssemblyInfoInputs.cache
+C:\Projects\SimulasTest\obj\Debug\net6.0\SimulasTest.AssemblyInfo.cs
+C:\Projects\SimulasTest\obj\Debug\net6.0\SimulasTest.csproj.CoreCompileInputs.cache
+C:\Projects\SimulasTest\obj\Debug\net6.0\SimulasTest.dll
+C:\Projects\SimulasTest\obj\Debug\net6.0\refint\SimulasTest.dll
+C:\Projects\SimulasTest\obj\Debug\net6.0\SimulasTest.pdb
+C:\Projects\SimulasTest\obj\Debug\net6.0\SimulasTest.genruntimeconfig.cache
+C:\Projects\SimulasTest\obj\Debug\net6.0\ref\SimulasTest.dll

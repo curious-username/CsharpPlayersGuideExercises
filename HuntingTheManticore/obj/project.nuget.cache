@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "hkCLY5ZBbxuEY8sKn3ap+Ubf2sVbY9ZS0rJcCz7o13rVgxcIeHWQs3gZ9OyEGBW/su0p9zy91E4e9S2SqruvrQ==",
   "success": true,
   "projectFilePath": "D:\\Projects\\Csharp\\PlayersGuide\\HuntingTheManticore\\HuntingTheManticore.csproj",
+=======
+  "dgSpecHash": "K9BkxEo+LKv4+u6y/sQU4KS+91CHaJj+Sfc0YLiGA5iZ3P2ydzXG3hMXk5vLtZ7nzcXuOef6LqqZ/6Pa6w8YaQ==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\HuntingTheManticore\\HuntingTheManticore.csproj",
+>>>>>>> 6b83557fd61eae0d2c7471437e5ce775b10abba2
   "expectedPackageFiles": [],
   "logs": []
 }

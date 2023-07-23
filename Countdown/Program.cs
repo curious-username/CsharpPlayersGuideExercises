@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+﻿// See https://aka.ms/new-console-template for more information
+Console.WriteLine("Hello, World!");
+=======
 ﻿
 
 int CountDown(int number)
@@ -11,3 +15,4 @@ Console.WriteLine("It's the final countdown!");
 CountDown(10);
 Console.WriteLine(0);
 Console.WriteLine("YEAAAHHHHHHHHH");
+>>>>>>> 75107c2c13817242f0df4b5d4e742049e606ddd2

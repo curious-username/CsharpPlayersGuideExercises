@@ -8,12 +8,17 @@
     "net6.0": []
   },
   "packageFolders": {
+<<<<<<< HEAD
     "C:\\Users\\Hawking\\.nuget\\packages\\": {},
     "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+=======
+    "C:\\Users\\benja\\.nuget\\packages\\": {}
+>>>>>>> 6b83557fd61eae0d2c7471437e5ce775b10abba2
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "D:\\Projects\\Csharp\\PlayersGuide\\HuntingTheManticore\\HuntingTheManticore.csproj",
       "projectName": "HuntingTheManticore",
       "projectPath": "D:\\Projects\\Csharp\\PlayersGuide\\HuntingTheManticore\\HuntingTheManticore.csproj",
@@ -26,6 +31,16 @@
       "configFilePaths": [
         "C:\\Users\\Hawking\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+=======
+      "projectUniqueName": "C:\\Projects\\HuntingTheManticore\\HuntingTheManticore.csproj",
+      "projectName": "HuntingTheManticore",
+      "projectPath": "C:\\Projects\\HuntingTheManticore\\HuntingTheManticore.csproj",
+      "packagesPath": "C:\\Users\\benja\\.nuget\\packages\\",
+      "outputPath": "C:\\Projects\\HuntingTheManticore\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\benja\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> 6b83557fd61eae0d2c7471437e5ce775b10abba2
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -66,7 +81,11 @@
             "privateAssets": "all"
           }
         },
+<<<<<<< HEAD
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+=======
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+>>>>>>> 6b83557fd61eae0d2c7471437e5ce775b10abba2
       }
     }
   }

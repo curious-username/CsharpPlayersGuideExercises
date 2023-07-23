@@ -1,6 +1,22 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
+    "C:\\Projects\\Countdown\\Countdown.csproj": {}
+  },
+  "projects": {
+    "C:\\Projects\\Countdown\\Countdown.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\Countdown\\Countdown.csproj",
+        "projectName": "Countdown",
+        "projectPath": "C:\\Projects\\Countdown\\Countdown.csproj",
+        "packagesPath": "C:\\Users\\benja\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\Countdown\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\benja\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
     "D:\\Projects\\Csharp\\PlayersGuide\\Countdown\\Countdown.csproj": {}
   },
   "projects": {
@@ -19,6 +35,7 @@
         "configFilePaths": [
           "C:\\Users\\Hawking\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+>>>>>>> 75107c2c13817242f0df4b5d4e742049e606ddd2
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -59,7 +76,11 @@
               "privateAssets": "all"
             }
           },
+<<<<<<< HEAD
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+=======
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+>>>>>>> 75107c2c13817242f0df4b5d4e742049e606ddd2
         }
       }
     }

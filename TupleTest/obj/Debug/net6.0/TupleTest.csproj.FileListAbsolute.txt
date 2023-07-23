@@ -1,0 +1,15 @@
+C:\Projects\TupleTest\bin\Debug\net6.0\TupleTest.exe
+C:\Projects\TupleTest\bin\Debug\net6.0\TupleTest.deps.json
+C:\Projects\TupleTest\bin\Debug\net6.0\TupleTest.runtimeconfig.json
+C:\Projects\TupleTest\bin\Debug\net6.0\TupleTest.dll
+C:\Projects\TupleTest\bin\Debug\net6.0\TupleTest.pdb
+C:\Projects\TupleTest\obj\Debug\net6.0\TupleTest.csproj.AssemblyReference.cache
+C:\Projects\TupleTest\obj\Debug\net6.0\TupleTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\TupleTest\obj\Debug\net6.0\TupleTest.AssemblyInfoInputs.cache
+C:\Projects\TupleTest\obj\Debug\net6.0\TupleTest.AssemblyInfo.cs
+C:\Projects\TupleTest\obj\Debug\net6.0\TupleTest.csproj.CoreCompileInputs.cache
+C:\Projects\TupleTest\obj\Debug\net6.0\TupleTest.dll
+C:\Projects\TupleTest\obj\Debug\net6.0\refint\TupleTest.dll
+C:\Projects\TupleTest\obj\Debug\net6.0\TupleTest.pdb
+C:\Projects\TupleTest\obj\Debug\net6.0\TupleTest.genruntimeconfig.cache
+C:\Projects\TupleTest\obj\Debug\net6.0\ref\TupleTest.dll
