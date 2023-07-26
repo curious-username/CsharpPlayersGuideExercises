@@ -1,0 +1,15 @@
+D:\Projects\Csharp\PlayersGuide\SimulaSoup\bin\Debug\net6.0\SimulaSoup.exe
+D:\Projects\Csharp\PlayersGuide\SimulaSoup\bin\Debug\net6.0\SimulaSoup.deps.json
+D:\Projects\Csharp\PlayersGuide\SimulaSoup\bin\Debug\net6.0\SimulaSoup.runtimeconfig.json
+D:\Projects\Csharp\PlayersGuide\SimulaSoup\bin\Debug\net6.0\SimulaSoup.dll
+D:\Projects\Csharp\PlayersGuide\SimulaSoup\bin\Debug\net6.0\SimulaSoup.pdb
+D:\Projects\Csharp\PlayersGuide\SimulaSoup\obj\Debug\net6.0\SimulaSoup.csproj.AssemblyReference.cache
+D:\Projects\Csharp\PlayersGuide\SimulaSoup\obj\Debug\net6.0\SimulaSoup.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Csharp\PlayersGuide\SimulaSoup\obj\Debug\net6.0\SimulaSoup.AssemblyInfoInputs.cache
+D:\Projects\Csharp\PlayersGuide\SimulaSoup\obj\Debug\net6.0\SimulaSoup.AssemblyInfo.cs
+D:\Projects\Csharp\PlayersGuide\SimulaSoup\obj\Debug\net6.0\SimulaSoup.csproj.CoreCompileInputs.cache
+D:\Projects\Csharp\PlayersGuide\SimulaSoup\obj\Debug\net6.0\SimulaSoup.dll
+D:\Projects\Csharp\PlayersGuide\SimulaSoup\obj\Debug\net6.0\refint\SimulaSoup.dll
+D:\Projects\Csharp\PlayersGuide\SimulaSoup\obj\Debug\net6.0\SimulaSoup.pdb
+D:\Projects\Csharp\PlayersGuide\SimulaSoup\obj\Debug\net6.0\SimulaSoup.genruntimeconfig.cache
+D:\Projects\Csharp\PlayersGuide\SimulaSoup\obj\Debug\net6.0\ref\SimulaSoup.dll
