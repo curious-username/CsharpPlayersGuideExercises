@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kMvLRVZJTyttDTyq/idhCcn7Ojxq6/KmnNpEP1jlxktQzvNpZOH2bepBGEsq9xGiZ04xbPU2Z2IqgvFTTMHgDQ==",
+  "dgSpecHash": "TLzdttp2dYBWsQ8N6LJCoOx4foPCCYVUTkQqavtw3bBKWR8NTjDbUBxa5P+2H8lgPsJ+c7zZ21MfiRTYBzBCSQ==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\Csharp\\PlayersGuide\\SimulaSoup\\SimulaSoup.csproj",
+  "projectFilePath": "C:\\Projects\\SimulaSoup\\SimulaSoup.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

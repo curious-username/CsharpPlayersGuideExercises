@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\Csharp\\PlayersGuide\\SimulaSoup\\SimulaSoup.csproj": {}
+    "C:\\Projects\\SimulaSoup\\SimulaSoup.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\Csharp\\PlayersGuide\\SimulaSoup\\SimulaSoup.csproj": {
+    "C:\\Projects\\SimulaSoup\\SimulaSoup.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\Csharp\\PlayersGuide\\SimulaSoup\\SimulaSoup.csproj",
+        "projectUniqueName": "C:\\Projects\\SimulaSoup\\SimulaSoup.csproj",
         "projectName": "SimulaSoup",
-        "projectPath": "D:\\Projects\\Csharp\\PlayersGuide\\SimulaSoup\\SimulaSoup.csproj",
-        "packagesPath": "C:\\Users\\Hawking\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\Csharp\\PlayersGuide\\SimulaSoup\\obj\\",
+        "projectPath": "C:\\Projects\\SimulaSoup\\SimulaSoup.csproj",
+        "packagesPath": "C:\\Users\\benja\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\SimulaSoup\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Hawking\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\benja\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -59,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
