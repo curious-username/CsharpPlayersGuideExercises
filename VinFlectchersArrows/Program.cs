@@ -1,8 +1,6 @@
 ﻿bool _isFirstTimeRunning = true;
-
-
-
-
+float totalCost = 0.0f;
+// need to use the method in the class to calculate 
 
 void MainMenu()
 {
@@ -16,15 +14,7 @@ void MainMenu()
 
 
 }
-void ArrowMaker()
-{
-    Arrow arrow = new Arrow(ArrowHead(), Shaft(), Fletching());
-    
-    
-    
 
-
-}
 
 string ArrowHead()
 {
@@ -33,21 +23,22 @@ string ArrowHead()
     Console.WriteLine("Starting with the arrowhead what do you want?");
     Console.WriteLine("1 for steel, 2 for wood, or 3 for obsidian");
     arrowhead = Console.ReadLine();
-    if (arrowhead == "1") { arrowhead = "Steel"; }
-    else if (arrowhead == "2") { arrowhead = "Wood"; }
-    else if (arrowhead == "3") { arrowhead = "Obsidian"; }
+    if (arrowhead == "1") { arrowhead = "Steel"; totalCost += 10.0f; }
+    else if (arrowhead == "2") { arrowhead = "Wood"; totalCost += 3.0f; }
+    else if (arrowhead == "3") { arrowhead = "Obsidian";totalCost += 5.0f; }
     else
     {
         Console.WriteLine("Please make a valid selection");
         ArrowHead();
     }
-
+    
     return arrowhead;
 }
 
 int Shaft()
 {
-    string shaft;
+    float shaft;
+    
 
     Console.WriteLine("Next we select the shaft length.");
     Console.WriteLine("Enter a value between 60 and 100");
@@ -60,7 +51,8 @@ int Shaft()
         }
         else
         {
-            shaft = answer;
+            shaft = Convert.ToInt32(answer);
+            totalCost += shaft * 0.05f;
             break;
         }
     } while (true);
@@ -75,9 +67,9 @@ string Fletching()
     Console.WriteLine("Lastly select a fletching");
     Console.WriteLine("1 for Plastic, 2 for Turkey Feathers, or 3 for Goose Feathers");
     fletching = Console.ReadLine();
-    if (fletching == "1") { fletching = "Plastic"; }
-    else if (fletching == "2") { fletching = "Turkey Feathers"; }
-    else if (fletching == "3") { fletching = "Goose Feathers"; }
+    if (fletching == "1") { fletching = "Plastic"; totalCost += 10.0f; }
+    else if (fletching == "2") { fletching = "Turkey Feathers"; totalCost += 5.0f; }
+    else if (fletching == "3") { fletching = "Goose Feathers"; totalCost += 3.0f; }
     else
     {
         Console.WriteLine("Please make a valid selection");
@@ -86,45 +78,56 @@ string Fletching()
     return fletching;
 }
 
+void ArrowMaker()
+{
+    Arrow a = new Arrow(ArrowHead(), Shaft(), Fletching());
 
+    Console.WriteLine(a.GetArrowhead());
+    Console.WriteLine(a.GetFletching());
+    Console.WriteLine(a.GetShaft());
+
+
+
+}
+ArrowMaker();
 class Arrow
 {
-    string arrowhead = "undefined";
-    int shaft = 0;
-    string fletching = "undefined";
+    private string arrowhead = "undefined";
+    private int shaft = 0;
+    private string fletching = "undefined";
+
 
     public Arrow(string arrowhead, int shaft, string fletching)
     {
         this.arrowhead = arrowhead;
         this.shaft = shaft;
         this.fletching = fletching;
-    }    
+    }
 
-    void PrintMessage()
+    public string GetArrowhead() => arrowhead; 
+    public int GetShaft() => shaft;
+    public string GetFletching() => fletching;
+
+    public void PrintMessage()
     {
         Console.WriteLine($"You have created an arrow with {this.arrowhead}, {this.shaft}, {this.fletching}");
     }
 
-    float GetCost()
+    public float GetPrice(float total)
     {
-        float steel = 10f;
-        float wood = 3f;
-        float bosidian = 5f;
-        float shaft = 0.05f;
-        float plastic = 10f;
-        float turkeyFeathers = 5f;
-        float goodFeathers = 3f;
-
-        
-
+        Console.WriteLine($"Your total price is ");
+        return 1.1f;
+    }
+    
 
         /*
          * arrowheads: steel = 10 gold, wood costs 3 gold, obsidian costs 5 gold, 
          * shaft: 0.05 gold per cm
          * fletching: turkey feathers = 10 gold, turkey feathers = 5 gold, goose feathers = 3 gold
+         * three seperate methods to build total, use get cost to make the calculation
          */
 
 
-    }
+    
 }
 

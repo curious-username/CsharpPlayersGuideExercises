@@ -1,0 +1,15 @@
+C:\Projects\ClassPropertiesSandBox\bin\Debug\net6.0\ClassPropertiesSandBox.exe
+C:\Projects\ClassPropertiesSandBox\bin\Debug\net6.0\ClassPropertiesSandBox.deps.json
+C:\Projects\ClassPropertiesSandBox\bin\Debug\net6.0\ClassPropertiesSandBox.runtimeconfig.json
+C:\Projects\ClassPropertiesSandBox\bin\Debug\net6.0\ClassPropertiesSandBox.dll
+C:\Projects\ClassPropertiesSandBox\bin\Debug\net6.0\ClassPropertiesSandBox.pdb
+C:\Projects\ClassPropertiesSandBox\obj\Debug\net6.0\ClassPropertiesSandBox.csproj.AssemblyReference.cache
+C:\Projects\ClassPropertiesSandBox\obj\Debug\net6.0\ClassPropertiesSandBox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\ClassPropertiesSandBox\obj\Debug\net6.0\ClassPropertiesSandBox.AssemblyInfoInputs.cache
+C:\Projects\ClassPropertiesSandBox\obj\Debug\net6.0\ClassPropertiesSandBox.AssemblyInfo.cs
+C:\Projects\ClassPropertiesSandBox\obj\Debug\net6.0\ClassPropertiesSandBox.csproj.CoreCompileInputs.cache
+C:\Projects\ClassPropertiesSandBox\obj\Debug\net6.0\ClassPropertiesSandBox.dll
+C:\Projects\ClassPropertiesSandBox\obj\Debug\net6.0\refint\ClassPropertiesSandBox.dll
+C:\Projects\ClassPropertiesSandBox\obj\Debug\net6.0\ClassPropertiesSandBox.pdb
+C:\Projects\ClassPropertiesSandBox\obj\Debug\net6.0\ClassPropertiesSandBox.genruntimeconfig.cache
+C:\Projects\ClassPropertiesSandBox\obj\Debug\net6.0\ref\ClassPropertiesSandBox.dll
