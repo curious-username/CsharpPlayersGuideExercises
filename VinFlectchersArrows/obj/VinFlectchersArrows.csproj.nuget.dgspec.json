@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\VinFlectchersArrows\\VinFlectchersArrows.csproj": {}
+    "D:\\Projects\\Csharp\\PlayersGuide\\VinFlectchersArrows\\VinFlectchersArrows.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\VinFlectchersArrows\\VinFlectchersArrows.csproj": {
+    "D:\\Projects\\Csharp\\PlayersGuide\\VinFlectchersArrows\\VinFlectchersArrows.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\VinFlectchersArrows\\VinFlectchersArrows.csproj",
+        "projectUniqueName": "D:\\Projects\\Csharp\\PlayersGuide\\VinFlectchersArrows\\VinFlectchersArrows.csproj",
         "projectName": "VinFlectchersArrows",
-        "projectPath": "C:\\Projects\\VinFlectchersArrows\\VinFlectchersArrows.csproj",
-        "packagesPath": "C:\\Users\\benja\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\VinFlectchersArrows\\obj\\",
+        "projectPath": "D:\\Projects\\Csharp\\PlayersGuide\\VinFlectchersArrows\\VinFlectchersArrows.csproj",
+        "packagesPath": "C:\\Users\\Hawking\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\Csharp\\PlayersGuide\\VinFlectchersArrows\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\benja\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Hawking\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     }
